@@ -1,16 +1,23 @@
-## Hi there 👋
+# Syed Anwar
 
-<!--
-**anwarkhan0/anwarkhan0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Backend-focused Software Engineer  
+Node.js | Express | REST APIs | PostgreSQL | JWT | Python
 
-Here are some ideas to get you started:
+## What I Do
+- Build backend systems with authentication, role-based access, and clean architecture
+- Design REST APIs used by real applications
+- Work with databases, security, and API performance
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Currently
+- Improving production-level backend projects
+- Preparing for backend / full-stack roles
+
+## Tech Stack
+- Backend: Node.js, Express, Python
+- Databases: PostgreSQL, MongoDB
+- Auth: JWT, OAuth basics
+- Tools: Git, Docker (basic), Postman
+
+## Links
+- LinkedIn: https://linkedin.com/in/your-link
+- Portfolio: (add later)
