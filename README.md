@@ -19,5 +19,5 @@ Node.js | Express | REST APIs | PostgreSQL | JWT | Python
 - Tools: Git, Docker (basic), Postman
 
 ## Links
-- LinkedIn: https://linkedin.com/in/your-link
-- Portfolio: (add later)
+- LinkedIn: https://linkedin.com/in/syed-anwar
+- Portfolio: https://portfoliosyedanwar.vercel.app/
